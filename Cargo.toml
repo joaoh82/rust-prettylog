@@ -1,6 +1,6 @@
 [package]
 name = "prettylog"
-version = "0.1.1"
+version = "0.1.2"
 description = "Pretty log messages for your CLI"
 authors = ["Joao Henrique Machado Silva <joaoh82@gmail.com>"]
 edition = "2018"
@@ -9,7 +9,5 @@ readme = "README.md"
 repository = "https://github.com/joaoh82/rust-prettylog"
 homepage = "https://github.com/joaoh82/rust-prettylog"
 documentation = "https://docs.rs/prettylog"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

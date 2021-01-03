@@ -1,11 +1,11 @@
 <p align="center">
   <h1 align="center">prettylog</h1>
-  <h4 align="center">Print pretty terminal messages</h4>
+  <h4 align="center">Print pretty terminal log messages</h4>
   <br>
 </p>
 
 ## Description:
-A simple Rust crate with **no dependencies** to print colorful messages with emojis on the terminal.
+A simple Rust crate with **no dependencies** to print colorful log messages with emojis on the terminal.
 
 ## Usage:
 ```rust
@@ -14,14 +14,14 @@ extern crate prettylog;
 use prettylog::*;
 
 fn main() {
-    error("Hello, world!");
-    info("Hello, world!");
-    warn("Hello, world!");
-    wait("Hello, world!");
-    critical("Hello, world!");
-    command("Hello, world!");
-    link("Hello, world!");
-    misc("Hello, world!");
+    error("Hello, prettylog!");
+    info("Hello, prettylog!");
+    warn("Hello, prettylog!");
+    wait("Hello, prettylog!");
+    critical("Hello, prettylog!");
+    command("Hello, prettylog!");
+    link("Hello, prettylog!");
+    misc("Hello, prettylog!");
 }
 ```
 
