@@ -4,6 +4,11 @@ version = "0.1.0"
 description = "Pretty log messages for your CLI"
 authors = ["Joao Henrique Machado Silva <joaoh82@gmail.com>"]
 edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/joaoh82/prettylog"
+homepage = "https://github.com/joaoh82/prettylog"
+documentation = "https://docs.rs/prettylog"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
