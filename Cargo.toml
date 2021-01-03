@@ -1,6 +1,6 @@
 [package]
 name = "prettylog"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pretty log messages for your CLI"
 authors = ["Joao Henrique Machado Silva <joaoh82@gmail.com>"]
 edition = "2018"
