@@ -25,10 +25,6 @@ fn main() {
 }
 ```
 
-will output
-
-[IMAGE]
-
 ## Issue/Feedback:
 
 log them in the [github issues](https://github.com/joaoh82/rust-prettylog/issues) or hit me on [twitter](https://twitter.com/joaoh82).
